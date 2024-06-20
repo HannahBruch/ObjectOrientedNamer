@@ -1,0 +1,22 @@
+const parts = [
+    "Serializer",
+    "Factory",
+    "Producer",
+    "Manager",
+    "Abstract",
+    "Adapter",
+    "Builder",
+    "Prototype",
+    "Composite",
+    "Decorator",
+    "Singleton",
+    "Facade",
+    "Flyweight",
+    "Proxy",
+    "Iterator",
+    "Mediator",
+    "Observer",
+    "State",
+    "Template",
+    "Visitor"
+];
